@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  align-items: flex-start;
+  align-content: flex-start;
+  flex-direction: column;
+  background-color: rgb(41, 46, 45);
+  width: fit-content;
+  padding: 70px 121px 70px 150px;
+  border-radius: 2px;
+}
